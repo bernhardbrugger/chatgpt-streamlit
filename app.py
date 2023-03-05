@@ -1,6 +1,3 @@
-pip install -q openai
-pip install -q streamlit
-
 
 import openai
 import toml
