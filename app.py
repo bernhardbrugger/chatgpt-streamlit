@@ -1,9 +1,4 @@
 
-import openai
-import toml
-import streamlit as st
-
-
 def show_messages(text):
     messages_str = [
         f"{_['role']}: {_['content']}" for _ in st.session_state["messages"][1:]
