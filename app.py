@@ -1,4 +1,4 @@
-pip install git+https://github.com/uiri/toml.git
+!pip install git+https://github.com/uiri/toml.git
 
 import openai
 import toml
