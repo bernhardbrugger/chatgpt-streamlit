@@ -1,5 +1,3 @@
-$ python -m pip install git+https://github.com/uiri/toml.git
-
 import openai
 import toml
 import streamlit as st
