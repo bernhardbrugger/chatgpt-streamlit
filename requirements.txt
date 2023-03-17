@@ -1,3 +1,3 @@
 openai==0.27.2
-https://github.com/uiri/toml.git
+gh repo clone uiri/toml
 streamlit==1.10.0
